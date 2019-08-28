@@ -1,0 +1,21 @@
+caption{
+    border: 1px solid black;
+    text-align: center;
+    color: dodgerblue;
+}
+table{
+    width: 100%;
+}
+th{
+    padding: 10px;
+    color: skyblue;
+}
+td{
+    text-align: center
+} 
+p{
+    text-align: left;
+}
+legend{
+    text-align: left;
+}
